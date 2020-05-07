@@ -1,5 +1,3 @@
-32 lines (25 sloc)  834 Bytes
-  
 from tkinter import *
 import pandas as pd
 
